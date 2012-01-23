@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<jnlp codebase="file:///C:/Users/julian/Documents/Projects/clj-seesaw-examples" 
+<jnlp codebase="https://sites.google.com/site/juliangamble/Home/" 
       href="clj-seesaw-clock.jnlp"> 
   <information>
     <title>Seesaw Clock Example</title>
