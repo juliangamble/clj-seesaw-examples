@@ -1,0 +1,1 @@
+jarsigner -keystore compstore -storepass sunshine -keypass sunshine -signedjar clj-seesaw-examples.jar clj-seesaw-examples-1.0.0-SNAPSHOT-standalone.jar signFiles

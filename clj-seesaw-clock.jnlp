@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp codebase="file:///C:/Users/julian/Documents/Projects/clj-seesaw-examples" 
+      href="clj-seesaw-clock.jnlp"> 
+  <information>
+    <title>Seesaw Clock Example</title>
+    <vendor>Machiavellian</vendor>
+  </information>
+  <resources>
+    <j2se version="1.4+" />
+    <jar href="clj-seesaw-examples.jar"/>
+  </resources>
+  <application-desc main-class="seesaw.test.examples.clock"/>
+  <offline-allowed/>
+  <security>
+    <all-permissions/>
+  </security>
+</jnlp>
