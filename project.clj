@@ -3,5 +3,5 @@
   :dependencies [[org.clojure/clojure "1.3.0"]
                  [seesaw "1.3.0"]]
  	:source-path "src"
-	:main seesaw.test.examples.clock
+	:main seesaw.test.examples.examplesimporter
 )

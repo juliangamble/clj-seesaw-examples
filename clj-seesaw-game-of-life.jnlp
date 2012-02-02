@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp codebase="https://sites.google.com/site/juliangamble/Home/" 
+      href="clj-seesaw-game-of-life.jnlp"> 
+  <information>
+    <title>Seesaw Clock Example</title>
+    <vendor>Machiavellian</vendor>
+  </information>
+  <resources>
+    <j2se version="1.4+" />
+    <jar href="clj-seesaw-examples.jar"/>
+  </resources>
+  <application-desc main-class="seesaw.test.examples.game_of_life"/>
+  <offline-allowed/>
+  <security>
+    <all-permissions/>
+  </security>
+</jnlp>
